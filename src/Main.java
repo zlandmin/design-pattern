@@ -5,5 +5,7 @@ public class Main {
         // simple factory
         // factory method
         // abstract factory
+        // builder
+        // decorator
     }
 }
