@@ -10,5 +10,6 @@ public class Main {
         // adapter
         // observer
         // strategy
+        // responsibility chain
     }
 }
