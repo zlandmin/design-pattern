@@ -9,5 +9,6 @@ public class Main {
         // decorator
         // adapter
         // observer
+        // strategy
     }
 }
