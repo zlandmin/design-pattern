@@ -11,5 +11,6 @@ public class Main {
         // observer
         // strategy
         // responsibility chain
+        // iterator
     }
 }
